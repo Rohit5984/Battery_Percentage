@@ -30,9 +30,7 @@ Many Windows 10 users want a simple way to monitor battery percentage while rece
 
 ## Download
 
-Download the latest release from the Releases page:
-
-https://github.com/Rohit5984/Battery_Percentage/releases/latest
+Download the latest version from the **[Releases](https://github.com/Rohit5984/Battery_Percentage/releases/tag/1.0.0)** page.
 
 ## Installation
 
