@@ -24,9 +24,9 @@ Many Windows 10 users want a simple way to monitor battery percentage while rece
 
 ## Screenshot
 
-![BatteryPct Screenshot](assets/BatteryPct.png)
-
-> Place your screenshot at `assets/BatteryPct.png`.
+<p align="center">
+  <img src="assets/BatteryPct.png" alt="BatteryPct Screenshot" width="600" />
+</p>
 
 ## Download
 
